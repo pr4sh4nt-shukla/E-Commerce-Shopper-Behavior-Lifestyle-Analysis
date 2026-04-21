@@ -180,3 +180,16 @@ FILE_PATH = 'e_commerce_shopper_behaviour_and_lifestyle.csv'
 - **MinMax scaling for clustering, Standard scaling for linear models** — each scaler is chosen for the downstream task.
 - **Engineered scores are computed on raw data first**, then scaled alongside other features.
 - **SHAP on sampled data** — background set capped at 5,000 rows for tractable computation without sacrificing explanation quality.
+
+
+## 📧 Contact
+
+**Prashant Shukla**
+
+- 📧 Email: [prashantshukla8851@gmail.com](mailto:prashantshukla8851@gmail.com)
+- 💼 LinkedIn: [Prashant Shukla](https://linkedin.com/in/prashant-shukla)
+- 🔗 GitHub: [@pr4sh4nt-shukla](https://github.com/pr4sh4nt-shukla)
+
+---
+
+⭐ *If you found this NLP project insightful, please consider giving it a star!* ⭐
