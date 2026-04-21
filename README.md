@@ -192,4 +192,4 @@ FILE_PATH = 'e_commerce_shopper_behaviour_and_lifestyle.csv'
 
 ---
 
-⭐ *If you found this NLP project insightful, please consider giving it a star!* ⭐
+⭐ *If you found this project insightful, please consider giving it a star!* ⭐
